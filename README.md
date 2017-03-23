@@ -5,6 +5,8 @@ https://macedossaulo.github.io/DataViz4All
 
 
 interactive chart exercise
+
+<!DOCTYPE html>
 <html>
   <head>
     <title>sample web page</title>
